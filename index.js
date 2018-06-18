@@ -5,9 +5,11 @@
  * and folder in the './public' folder
  */
 
+var port = process.env.PORT || 3000
+
 // modules
 var static = require( 'node-static' ),
-    port = 8080,
+    port = port,
     http = require( 'http' );
 
 // config
@@ -15,6 +17,8 @@ var file = new static.Server( './legalco', {
     cache: 3600,
     gzip: true
 } );
+
+
 
 // serve
 http.createServer( function ( request, response ) {
