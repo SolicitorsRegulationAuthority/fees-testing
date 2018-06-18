@@ -1,0 +1,1071 @@
+Uri: http://legalandcompany.co.uk/process-oc-bv/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\index.html
+Content Type: text/html
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/Home-ImageC.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\Home-ImageC.jpg
+Content Type: image/jpeg
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/feed/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/comments/feed/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/css/main.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\css\main.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\fontello\css\fontello.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\style.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/css/post-type.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\css\post-type.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/wp-less/dt-the7/css/custom-f7562d711f.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\wp-less\dt-the7\css\custom-f7562d711f.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/wp-less/dt-the7/css/media-f7562d711f.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\wp-less\dt-the7\css\media-f7562d711f.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/wp-less/dt-the7/css/post-type-dynamic-f7562d711f.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\wp-less\dt-the7\css\post-type-dynamic-f7562d711f.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/style.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\style.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\js\above-the-fold.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/xmlrpc.php?rsd
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-includes/wlwmanifest.xml
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/2/2017/08/fav16.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\2\2017\08\fav16.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/LegalCo.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\LegalCo.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/about-us/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\about-us\index.html
+Content Type: text/html
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/our-people/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\our-people\index.html
+Content Type: text/html
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/our-services/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\our-services\index.html
+Content Type: text/html
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/contact-us/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\contact-us\index.html
+Content Type: text/html
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/js/main.min.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\js\main.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/js/post-type.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\js\post-type.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-includes/js/wp-embed.min.js?ver=4.8.6
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/LegalCo-Retina.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\LegalCo-Retina.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.ttf?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.woff?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.svg?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/images/default-skin.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\images\default-skin.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/images/default-skin.svg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\images\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/images/preloader.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\images\preloader.gif
+Content Type: image/gif
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.eot?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.ttf?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.woff?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.svg?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.eot?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.woff?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.ttf?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.svg?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.woff?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.svg?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32.svg
+Content Type: image/svg+xml
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/themes/dt-the7/images/mask.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\themes\dt-the7\images\mask.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/AboutUs.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\AboutUs.jpg
+Content Type: image/jpeg
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Fabout-us%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Fabout-us%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\css\js_composer_tta.min.css
+Content Type: text/css
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\vc_accordion\vc-accordion.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\vc-tta-autoplay\vc-tta-autoplay.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\vc_tabs\vc-tabs.min.js
+Content Type: application/javascript
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/OurPeople.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\OurPeople.jpg
+Content Type: image/jpeg
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Four-people%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Four-people%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/OurServices.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\OurServices.jpg
+Content Type: image/jpeg
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Four-services%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Four-services%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/uploads/sites/22/2017/08/ContactUs-1.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\uploads\sites\22\2017\08\ContactUs-1.jpg
+Content Type: image/jpeg
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Fcontact-us%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-json/oembed/1.0/embed?url=http:%2F%2Flegalandcompany.co.uk%2Fprocess-oc-bv%2Fcontact-us%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-oc-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-oc-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\fontello\css\fontello.min-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\style.min-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/css/post-type.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\css\post-type-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/wp-less/dt-the7/css/custom-ef7c9ac4c4.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\wp-less\dt-the7\css\custom-ef7c9ac4c4-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/wp-less/dt-the7/css/media-ef7c9ac4c4.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\wp-less\dt-the7\css\media-ef7c9ac4c4-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/wp-less/dt-the7/css/post-type-dynamic-ef7c9ac4c4.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\wp-less\dt-the7\css\post-type-dynamic-ef7c9ac4c4-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/style.css?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\style-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\jquery\jquery-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\js\above-the-fold.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/xmlrpc.php?rsd
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\xmlrpc-1.xml
+Content Type: text/xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/wlwmanifest.xml
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-services%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-services%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/2/2017/08/fav16.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\2\2017\08\fav16-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\index-1.html
+Content Type: text/html
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/LegalCo.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\LegalCo-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/about-us/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\about-us\index-1.html
+Content Type: text/html
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/our-people/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\our-people\index-1.html
+Content Type: text/html
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/contact-us/
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\contact-us\index-1.html
+Content Type: text/html
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\css\js_composer_tta.min-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/js/main.min.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\js\main.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/js/post-type.js?ver=5.4.1
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\js\post-type-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/wp-embed.min.js?ver=4.8.6
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\wp-embed.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\vc_accordion\vc-accordion.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\vc-tta-autoplay\vc-tta-autoplay.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.2
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\vc_tabs\vc-tabs.min-1.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/LegalCo-Retina.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\LegalCo-Retina-1.png
+Content Type: image/png
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/OurPricing.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\OurPricing.jpg
+Content Type: image/jpeg
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-prices%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-prices%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/process-bad.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\process-bad.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: application/javascript
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/process-bad-107x300.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\process-bad-107x300.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/process-bad-364x1024.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\process-bad-364x1024.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\contact-form-7\images\ajax-loader-1.gif
+Content Type: image/gif
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\vc\alert-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\vc\info-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\vc\tick-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\vc\exclamation-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\address-book-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\alarm-clock-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\anchor-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\application-image-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\arrow-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\asterisk-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\auction-hammer-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\battery-full-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\binocular-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-image-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-music-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-office-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\blue-document-word-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\bookmark-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\camcorder-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\camera-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\chart-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\chart-pie-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\clock-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\control-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\fire-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\heart-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\mail-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\plus-shield-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\icons\video-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.ttf?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.woff?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.svg?otu1sf
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\VC-Icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\toggle_open-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\toggle_close-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\flickr-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\images\spinner-1.gif
+Content Type: image/gif
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\vc\remove-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/images/default-skin.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\images\default-skin-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/images/default-skin.svg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\images\default-skin-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/images/preloader.gif
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\images\preloader-1.gif
+Content Type: image/gif
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.eot?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.ttf?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.woff?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.svg?esfwnl
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-the7-social\fonts\icomoon-the7-social-icons-16x16-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/FontAwesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\FontAwesome\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.eot?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.woff?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.ttf?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/fontello/font/fontello.svg?2136226
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\fontello\font\fontello-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.woff?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.svg?satvtg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\fonts\icomoon-arrows-the7\fonts\icomoon-arrows-carousel-32x32-1.svg
+Content Type: image/svg+xml
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/themes/dt-the7/images/mask.png
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\themes\dt-the7\images\mask-1.png
+Content Type: image/png
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/Home-ImageC.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\Home-ImageC-1.jpg
+Content Type: image/jpeg
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/AboutUs.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\AboutUs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Fabout-us%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Fabout-us%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/OurPeople.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\OurPeople-1.jpg
+Content Type: image/jpeg
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-people%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Four-people%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/uploads/sites/20/2017/08/ContactUs-1.jpg
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\uploads\sites\20\2017\08\ContactUs-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Fcontact-us%2F
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-json/oembed/1.0/embed?url=https:%2F%2Flegalandcompany.co.uk%2Fprocess-hp-bv%2Fcontact-us%2F&
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://legalandcompany.co.uk/process-hp-bv/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\process-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+ml
+
+/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: F:\Downloaded Web Sites\www.legalandcompany.co.uk\fixedfee-hp-bv\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+/svg+xml
+

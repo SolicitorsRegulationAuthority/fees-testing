@@ -1,6 +1,24 @@
-var static = require('node-static');
-var file = new static.Server();
+/**
+ * Static HTTP Server
+ *
+ * Create a static file server instance to serve files
+ * and folder in the './public' folder
+ */
 
-require('http').createServer(function(request, response){
-    request.addListener('end', function(){file.serve(request,response)}).resume();
-}).listen(process.env.PORT || 3000);
+// modules
+var static = require( 'node-static' ),
+    port = 8080,
+    http = require( 'http' );
+
+// config
+var file = new static.Server( './legalco', {
+    cache: 3600,
+    gzip: true
+} );
+
+// serve
+http.createServer( function ( request, response ) {
+    request.addListener( 'end', function () {
+        file.serve( request, response );
+    } ).resume();
+} ).listen( port );
