@@ -12,7 +12,7 @@ var static = require( 'node-static' ),
 
 // config
 var file = new static.Server( './legalco', {
-    cache: 3600,
+    cache: 100,
     gzip: true
 } );
 
